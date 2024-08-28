@@ -452,7 +452,7 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Fadhost   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer qpy.id    ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
   echo -e "${RED}ggg:     gg.     -   ,ggg       • Youtube  : ACTVTEAM     ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : QOUPAY.ID.   ${NC}"
